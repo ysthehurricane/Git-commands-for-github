@@ -50,7 +50,7 @@ push , pull , commit, remote, create branch,etc all commands
 <ul>
   <li><b>git branch</b>  				//to view all branches</li>
   <li><b>git branch branchName</b> 			//create new branch eg. git branch yash</li>
-  <li><b>git checkout branchName</b>			//move to yash branch from master branch</li>
+  <li><b>git checkout branchName</b>			//switch one brach to another branch</li>
 </ul>
 
 # Merge Braches :-
