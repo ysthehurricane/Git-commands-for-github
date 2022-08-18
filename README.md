@@ -17,7 +17,7 @@ push , pull , commit, remote, create branch,etc all commands
       <li><b>git status</b>			//check status if file add or not on git</li>
       <li><b>git commit -m "any msg"	</b>	//create a snapshot or copy of all file</li>
       <li><b>git remote add origin repoLink </b>	//link between git and hosting platform such as github <br> //repolink means create a repository  on github and copy repository  link</li>
-      <li><b>git push origin master </b>		//upload means put all files on github</li>
+      <li><b>git push origin branch_name </b>		//upload means put all files on github</li>
     </ul>
   </li>
 </ul>
@@ -36,7 +36,7 @@ push , pull , commit, remote, create branch,etc all commands
       <li><b>git status</b>			//check status if file add or not on git</li>
       <li><b>git commit -m "change msg"	</b>	//create a snapshot or copy of all file</li>
       <li><b>git remote add origin repoLink </b>	//link between git and hosting platform such as github <br> //repolink means create a repository  on github and copy repository  link</li>
-      <li><b>git push origin master </b>		//upload means put all files on github</li>
+      <li><b>git push origin branch_name </b>		//upload means put all files on github</li>
 </ul>
 
 # Download or Fetch updation :-
