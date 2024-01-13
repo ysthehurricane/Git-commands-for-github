@@ -44,6 +44,12 @@ push , pull , commit, remote, create branch,etc all commands
   <li>
     <b>git pull origin master</b>
   </li>
+  <li>
+    <b>OR</b>
+  </li>
+  <li>
+    <b>git pull origin main</b>
+  </li>
 </ul>
 
 # Create Branch :-
